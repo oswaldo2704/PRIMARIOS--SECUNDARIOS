@@ -1,2 +1,3 @@
 # PRIMARIOS--SECUNDARIOS
 PRIMARIOS DOCUMENTACIÓN  DE USO PRIVADO, SECUNDARIO DE USO PUBLICO
+esta sera la plataforma en donde se crara la memoriaansp2017
